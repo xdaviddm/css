@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(1, 1, 1);
+}
+h1 {
+  color: aliceblue;
+}
+main h1 {
+  color: pink;
+  font-size:40px;
+}
+main p{
+  color:steelblue;
+}
+
+.color-titulo {
+  color: aquamarine;
+}
+
+#identificador {
+  background-color: blueviolet;
+  color: rgb(226, 38, 38);
+}
+
+[href="https://oferta.senasofiaplus.edu.co/"]
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+h1,h2 { 
+  color: brown;
